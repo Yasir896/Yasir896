@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasir Ghafar</h1>
 <h3 align="center">A passionate Software Engineer (Android/JS)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yasir896&label=Profile%20views&color=0e75b6&style=flat" alt="Yasir896" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yasir896&label=Profile%20views&color=0e75b6&style=flat" alt="Yasir896" /> </p> -->
 
 - 📝 I recently starting to write my findings in articles on [https://medium.com/@yasir896](https://medium.com/@yasir896)
 - 💬 Ask me about **Android, Kotlin, Clean code, Jetpack Compose!**
