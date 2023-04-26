@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yasir896" alt="Yasir896" /></p>
 
 <!--### Stats-->
-[Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasir896&show_icons=true&theme=transparent)
+<!--![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasir896&show_icons=true&theme=transparent)-->
