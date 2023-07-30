@@ -10,7 +10,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Jetpack Compose — a quick dive into Recomposition](https://medium.com/@yasir896/jetpack-compose-a-quick-dive-into-recomposition-8d3e5b43db37)
 - [Theming in Jetpack Compose: Colors](https://medium.com/@yasir896/theming-in-jetpack-compose-colors-ae017dc17f20)
 <!-- BLOG-POST-LIST:END -->
